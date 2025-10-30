@@ -42,7 +42,7 @@ I’m passionate about building intelligent systems, automation tools, and scala
 * Python-based script to send personalized emails to multiple recipients from an Excel list.
 * Supports 3,000+ email sends using Gmail SMTP with TLS for secure delivery.
 * **Tech:** Python, smtplib, email.mime, pandas
-* 🔗 [Repository →](#)
+* 🔗 [Repository →](https://github.com/JeelKakadiya3240/Automail)
 
 
 
